@@ -1,0 +1,32 @@
+En los archivos html sumé el SEO con las siguientes características:
+Descripción: mediante la etiqueta meta name description, agregué el siguiente párrafo que explica en pocas palabras el contenido de mi sitio:
+ “Conocé todo sobre Bring me the horizon y su música" además cada html tiene su propia description relacionado al contenido de sitio como por ejemplo:
+historia.html: "Bring me the horizon y su historia"
+galeria.html: "Las mejores Fotos de Bring me the horizon"
+discografia.html:"Bring me the horizon y toda su discografía"
+contacto.html:"Contacto Bring me the horizon"
+
+
+Palabras clave: mediante la etiqueta meta name keywords, agregué las palabras clave que acompañarán a todas las páginas de mi sitio:
+
+index.html:"bring me the horizon, BMTH, bring me the horizon musica, bring me the horizon historia, bring me the horizon discos, bring me the horizon fotos"
+historia.html:"bring me the horizon, BMTH, bring me the horizon historia, BMTH historia, bring me the horizon carrera, BMTH carrera"
+galeria.html:"bring me the horizon, BMTH, BMTH fotos, bring me the horizon fotos, bring me the horizon imagenes, BMTH imagenes"
+discografia.html:bring me the horizon, BMTH, BMTH discos, bring me the horizon musica, bring me the horizon discos, BMTH musica"
+contacto.html:"bring me the horizon, BMTH, bring me the horizon contacto, BMTH contacto"
+
+
+Encabezado: para el encabezado del h1 utilicé el texto:
+
+"Bring me the horizon"
+"Historia"
+"Galeria"
+"Discografia"
+"Contactanos"
+
+
+
+
+
+
+

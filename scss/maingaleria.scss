@@ -1,0 +1,13 @@
+#maingaleria {
+    background-color: $colorSecundario;
+    section {
+        div {
+            img {
+                transition: 300ms;
+                &:hover{
+                    transform: scale(1.10);
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,20 @@
+body{
+    header{
+        background-color: $colorPrimario;
+        div {
+            div {
+                nav {
+                    div {
+                        a {
+                            transition: 50ms;
+                            &:hover{
+                                transform: scale(1.10);
+                            }
+                        }
+                    }
+                }
+            
+            }
+        }
+    }
+}
