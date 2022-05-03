@@ -3,7 +3,7 @@ body {
         font-family: map-get($estilos, fuente);
         div {
             div {
-                background-color: map-get($estilos2, color);
+                background-color: map-get($estilos, color);
                 font-size: map-get($estilos, fuente);
                 div {
                     a {

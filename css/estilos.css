@@ -12,7 +12,7 @@
 .letracontacto {
   color: #e83807;
   font-size: 18px;
-  background-color: #120707; }
+  background-color: black; }
 
 * {
   font-family: 'Roboto', sans-serif; }
@@ -27,7 +27,7 @@ body header {
 body footer {
   font-family: 20px; }
   body footer div div {
-    background-color: rgba(0, 0, 0, 0.702);
+    background-color: #e24f00;
     font-size: 20px; }
     body footer div div div a img {
       transition: 300ms; }
@@ -56,6 +56,8 @@ body footer {
 
 #mainhistoria {
   background-color: black; }
+  #mainhistoria section div p {
+    color: #e24f00; }
 
 #maincontacto {
   background-color: black; }
